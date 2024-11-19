@@ -1,0 +1,11 @@
+E:\app1\app1\bin\Debug\mdb.mdb
+E:\app1\app1\bin\Debug\app1.exe.config
+E:\app1\app1\bin\Debug\app1.exe
+E:\app1\app1\bin\Debug\app1.pdb
+E:\app1\app1\obj\Debug\app1.csproj.AssemblyReference.cache
+E:\app1\app1\obj\Debug\app1.Form1.resources
+E:\app1\app1\obj\Debug\app1.Properties.Resources.resources
+E:\app1\app1\obj\Debug\app1.csproj.GenerateResource.cache
+E:\app1\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+E:\app1\app1\obj\Debug\app1.exe
+E:\app1\app1\obj\Debug\app1.pdb
